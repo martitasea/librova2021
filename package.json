@@ -55,6 +55,7 @@
     "@material-ui/lab": "^4.0.0-alpha.58",
     "prop-types": "^15.7.2",
     "react": "16.14.0",
-    "react-dom": "16.14.0"
+    "react-dom": "16.14.0",
+    "typeface-dosis": "^1.1.13"
   }
 }
