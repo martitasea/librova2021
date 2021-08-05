@@ -2,8 +2,8 @@ import ReactDOM from 'react-dom';
 import React from 'react';
 
 import CssBaseline from '@material-ui/core/CssBaseline';
-import theme from './theme';
 import {ThemeProvider} from '@material-ui/core/styles';
+import theme from './theme';
 
 const App = () => {
   return (
