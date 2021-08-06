@@ -78,7 +78,7 @@ const theme = (type) => createTheme({
       fontFamily: 'Dosis'
     },
     button: { //buttons
-      fontSize: 12,
+      fontSize: 14,
       fontWeight: 700,
       fontFamily: 'Dosis',
       letterSpacing: 1
